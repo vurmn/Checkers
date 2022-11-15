@@ -1,1 +1,10 @@
+Create start/end screen , rules screen, board with moveable pieces.
+Graphics Runner Class
 
+Make game logic Class
+Turn method to decied who goes
+Movement method to move pieces
+Pieces counter method
+Win requirements method
+Upgrade Piece method
+Game runner Class
